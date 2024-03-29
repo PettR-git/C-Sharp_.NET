@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GameCardLib/1.0.0": {
+        "dependencies": {
+          "UtilitiesLib": "1.0.0"
+        },
+        "runtime": {
+          "GameCardLib.dll": {}
+        }
+      },
+      "UtilitiesLib/1.0.0": {
+        "runtime": {
+          "UtilitiesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameCardLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilitiesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
